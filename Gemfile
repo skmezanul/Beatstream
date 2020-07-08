@@ -22,7 +22,7 @@ platforms :ruby, :mingw, :mswin do
 end
 
 group :assets do
-  gem 'jquery-rails', '2.0.2'
+  gem 'jquery-rails', '3.1.3'
   gem 'jquery-cookie-rails'
 
   # Use Sass
