@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.2.5'
 
-gem 'rails', '3.2.22.4'
+gem 'rails', '5.2.8.1'
 
 # ID3 info parser
 gem 'ruby-mp3info', '0.8.10', :require => 'mp3info'
