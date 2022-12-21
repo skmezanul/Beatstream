@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.2.5'
 
-gem 'rails', '3.2.22.4'
+gem 'rails', '4.0.0'
 
 # ID3 info parser
 gem 'ruby-mp3info', '0.8.10', :require => 'mp3info'
@@ -26,7 +26,7 @@ group :assets do
   gem 'jquery-cookie-rails'
 
   # Use Sass
-  gem 'sass-rails', '3.2.6'
+  gem 'sass-rails', '4.0.0'
 
   # Use react
   gem 'react-rails', '0.12.2'
